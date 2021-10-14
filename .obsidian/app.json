@@ -1,0 +1,19 @@
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "Inbox/School/Math/attach",
+  "alwaysUpdateLinks": true,
+  "tabSize": 4,
+  "trashOption": "local",
+  "newFileLocation": "root",
+  "showUnsupportedFiles": true,
+  "spellcheck": true,
+  "showFrontmatter": false,
+  "showLineNumber": true,
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "smartIndentList": true,
+  "foldHeading": true,
+  "useTab": true,
+  "lineWrap": true,
+  "foldIndent": true
+}
